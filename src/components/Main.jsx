@@ -259,7 +259,7 @@ function Main() {
                             sed do eiusmod
                           </p>
                           <h4 className="username">
-                            Adi Prasetyo 20, Pematangsiantar
+                            Anonymous 20, Sidoarjo
                           </h4>
                         </div>
                       </div>
@@ -303,7 +303,7 @@ function Main() {
                             sed do eiusmod
                           </p>
                           <h4 className="username">
-                            Adi Prasetyo 20, Pematangsiantar
+                            Anonymous 20, Sidoarjo
                           </h4>
                         </div>
                       </div>
@@ -347,7 +347,7 @@ function Main() {
                             sed do eiusmod
                           </p>
                           <h4 className="username">
-                            Adi Prasetyo 20, Pematangsiantar
+                            Anonymous 20, Sidoarjo
                           </h4>
                         </div>
                       </div>
