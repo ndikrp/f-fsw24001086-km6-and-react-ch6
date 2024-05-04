@@ -41,7 +41,7 @@ function Header() {
                   <a
                     className="nav-link "
                     aria-current="page"
-                    href="#our-service-section"
+                    href="/#our-service-section"
                   >
                     Our Services
                   </a>

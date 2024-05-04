@@ -8,14 +8,15 @@ function Search() {
   const [searched, setSearched] = useState(false);
   const [carData, setCarData] = useState([]);
   const [carFiltered, setCarFiltered] = useState([]);
+  const [buttonDisabled, setButtonDisabled] = useState(true);
 
   useEffect(() => {
-    console.log("Masuk ke useEffect");
     getCars((data) => {
       setCarData(data);
       console.log(data);
     });
   }, []);
+
   const newDateTimeFormat = new Date(`${dateInput} ${timeInput}`);
   const getEpochTime = newDateTimeFormat.getTime();
 
@@ -51,7 +52,16 @@ function Search() {
 
   const handleFilterCar = (e) => {
     e.preventDefault();
-
+  
+    const driverValue = document.getElementById("driver")?.value;
+    const dateValue = dateInput;
+    const timeValue = timeInput;
+  
+    if (driverValue && dateValue && timeValue) {
+      setButtonDisabled(false);
+    } else {
+      setButtonDisabled(true);
+    }
     setCarFiltered(filterCar);
     setSearched(true);
   };
