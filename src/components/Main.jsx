@@ -210,7 +210,7 @@ function Main() {
               className="row"
               style={{ height: "370px", paddingBottom: "100px" }}
             >
-              <div className="carouse-content">
+              <div className="carousel-content">
                 <Swiper
                   modules={[Navigation]}
                   className="carousel-container mySwiper"
@@ -219,7 +219,7 @@ function Main() {
                   slidesPerView="auto"
                   style={{ cursor: "pointer" }}
                 >
-                  <div className="carouse-content">
+                  <div className="carousel-content">
                     <SwiperSlide className="carousel-card">
                       <div className="carousel-image">
                         <img
