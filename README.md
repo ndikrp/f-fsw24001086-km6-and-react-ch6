@@ -1,7 +1,7 @@
-# Binar: Challenge 06 Car List Database 
+# Binar: Challenge 06 React Binar Car Rental
 Fullstack Web Development Challenge 6 Binar Academy - FSW2402KM6004 Andhika Rizky Aulia
 
-A fullstack web application using Vite + React Framework. Able to Fetch data from this [Cars Data Endpoint](https://raw.githubusercontent.com/fnurhidayat/probable-garbanzo/main/data/cars.min.json)
+A full stack web application using Vite + React Framework. Able to Fetch data from this [Cars Data Endpoint](https://raw.githubusercontent.com/fnurhidayat/probable-garbanzo/main/data/cars.min.json)
 
 -----------------------
 # How to Use
