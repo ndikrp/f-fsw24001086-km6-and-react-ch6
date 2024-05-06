@@ -133,7 +133,7 @@ function Search() {
           {searched ? (
             <div className="result d-flex" id="cars-container">
               {carFiltered.length === 0 ? (
-                <div className="alert alert-danger-mt-2" role="alert">
+                <div className="alert alert-danger mt-2" role="alert">
                   Data tidak ditemukan
                 </div>
               ) : (

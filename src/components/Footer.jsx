@@ -35,7 +35,7 @@ function Footer() {
                   {" "}
                   <img
                     className="sosmed-icon"
-                    src="./src/assets/images/icon_facebook.png"
+                    src="/images/icon_facebook.png"
                     alt="facebook-icon"
                     width="32px"
                   />{" "}
@@ -44,7 +44,7 @@ function Footer() {
                   {" "}
                   <img
                     className="sosmed-icon"
-                    src="./src/assets/images/icon_instagram.png"
+                    src="/images/icon_instagram.png"
                     alt="instagram-icon"
                     width="32px"
                   />{" "}
@@ -53,7 +53,7 @@ function Footer() {
                   {" "}
                   <img
                     className="sosmed-icon"
-                    src="./src/assets/images/icon_twitter.png"
+                    src="/images/icon_twitter.png"
                     alt="twitter-icon"
                     width="32px"
                   />{" "}
@@ -62,7 +62,7 @@ function Footer() {
                   {" "}
                   <img
                     className="sosmed-icon"
-                    src="./src/assets/images/icon_mail.png"
+                    src="/images/icon_mail.png"
                     alt="mail-icon"
                     width="32px"
                   />{" "}
@@ -71,7 +71,7 @@ function Footer() {
                   {" "}
                   <img
                     className="sosmed-icon"
-                    src="./src/assets/images/icon_twitch.png"
+                    src="/images/icon_twitch.png"
                     alt="twictch-icon"
                     width="32px"
                   />{" "}
@@ -81,7 +81,7 @@ function Footer() {
             <div className="copyright col-md-3 col-sm-12 p">
               <p>Copyright Binar 2022</p>
               <a href="#home">
-                <img src="./src/assets/images/logo.png" alt="Company-Logo" />
+                <img src="/images/logo.png" alt="Company-Logo" />
               </a>
             </div>
           </div>

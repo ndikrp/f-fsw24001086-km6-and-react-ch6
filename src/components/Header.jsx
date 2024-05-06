@@ -8,7 +8,7 @@ function Header() {
         <nav id="navbar" className="navbar navbar-expand-lg fixed-top data ">
           <div className="container">
             <a className="navbar-brand " href="/">
-              <img src="./src/assets/images/logo.png" alt="logo" />
+              <img src="/images/logo.png" alt="logo" />
             </a>
             <button
               className="navbar-toggler"
@@ -104,7 +104,7 @@ function Header() {
                 data-aos-duration={1000}
               >
                 <img
-                  src="./src/assets/images/img_car.png"
+                  src="/images/img_car.png"
                   alt=""
                   width="100%"
                 />

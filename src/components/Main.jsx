@@ -1,10 +1,8 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-// Import Swiper styles
 import "swiper/css";
 import "swiper/css/navigation";
 
-// import required modules
 import { Navigation } from "swiper";
 
 function Main() {
@@ -22,7 +20,7 @@ function Main() {
                 data-aos-offset={200}
               >
                 <img
-                  src="./src/assets/images/img_service.png"
+                  src="/images/img_service.png"
                   className="img-fluid"
                   id="service-img"
                   width="100%"
@@ -45,7 +43,7 @@ function Main() {
                 <p>
                   <span>
                     <img
-                      src="./src/assets/images/checklist.png"
+                      src="/images/checklist.png"
                       alt="checklist"
                       className="me-2"
                       width="24px"
@@ -56,7 +54,7 @@ function Main() {
                 <p>
                   <span>
                     <img
-                      src="./src/assets/images/checklist.png"
+                      src="/images/checklist.png"
                       alt="checklist"
                       className="me-2"
                       width="24px"
@@ -67,7 +65,7 @@ function Main() {
                 <p>
                   <span>
                     <img
-                      src="./src/assets/images/checklist.png"
+                      src="/images/checklist.png"
                       alt="checklist"
                       className="me-2"
                       width="24px"
@@ -78,7 +76,7 @@ function Main() {
                 <p>
                   <span>
                     <img
-                      src="./src/assets/images/checklist.png"
+                      src="/images/checklist.png"
                       alt="checklist"
                       className="me-2"
                       width="24px"
@@ -89,7 +87,7 @@ function Main() {
                 <p>
                   <span>
                     <img
-                      src="./src/assets/images/checklist.png"
+                      src="/images/checklist.png"
                       alt="checklist"
                       className="me-2"
                       width="24px"
@@ -124,7 +122,7 @@ function Main() {
                 <div className="card card-why-us h-100 d-flex flex-column justify-content-between">
                   <div className="card-body">
                     <img
-                      src="./src/assets/images/icon_complete.png"
+                      src="/images/icon_complete.png"
                       width="32px"
                       alt="icon"
                     />
@@ -140,7 +138,7 @@ function Main() {
                 <div className="card card-why-us h-100 d-flex flex-column justify-content-between">
                   <div className="card-body">
                     <img
-                      src="./src/assets/images/icon_price.png"
+                      src="/images/icon_price.png"
                       width="32px"
                       alt="icon"
                     />
@@ -156,7 +154,7 @@ function Main() {
                 <div className="card card-why-us h-100 d-flex flex-column justify-content-between">
                   <div className="card-body">
                     <img
-                      src="./src/assets/images/icon_24hrs.png"
+                      src="/images/icon_24hrs.png"
                       width="32px"
                       alt="icon"
                     />
@@ -172,7 +170,7 @@ function Main() {
                 <div className="card card-why-us h-100 d-flex flex-column justify-content-between">
                   <div className="card-body">
                     <img
-                      src="./src/assets/images/icon_professional.png"
+                      src="/images/icon_professional.png"
                       width="32px"
                       alt="icon"
                     />
@@ -223,30 +221,30 @@ function Main() {
                     <SwiperSlide className="carousel-card">
                       <div className="carousel-image">
                         <img
-                          src="./src/assets/images/img_photo.png"
+                          src="/images/img_photo.png"
                           alt="testimonial user image"
                         />
                       </div>
                       <div className="carousel-text ms-5">
                         <div className="rating-stars">
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                         </div>
@@ -259,7 +257,7 @@ function Main() {
                             sed do eiusmod
                           </p>
                           <h4 className="username">
-                            Anonymous 20, Sidoarjo
+                            Anonymous 25, Sidoarjo
                           </h4>
                         </div>
                       </div>
@@ -267,30 +265,30 @@ function Main() {
                     <SwiperSlide className="carousel-card">
                       <div className="carousel-image">
                         <img
-                          src="./src/assets/images/img_photo2.png"
+                          src="/images/img_photo2.png"
                           alt="testimonial user image"
                         />
                       </div>
                       <div className="carousel-text ms-5">
                         <div className="rating-stars">
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                         </div>
@@ -303,7 +301,7 @@ function Main() {
                             sed do eiusmod
                           </p>
                           <h4 className="username">
-                            Anonymous 20, Sidoarjo
+                            Anonymous 25, Sidoarjo
                           </h4>
                         </div>
                       </div>
@@ -311,30 +309,30 @@ function Main() {
                     <SwiperSlide className="carousel-card">
                       <div className="carousel-image">
                         <img
-                          src="./src/assets/images/img_photo2.png"
+                          src="/images/img_photo2.png"
                           alt="testimonial user image"
                         />
                       </div>
                       <div className="carousel-text ms-5">
                         <div className="rating-stars">
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                           <img
-                            src="./src/assets/images/Star.png"
+                            src="/images/Star.png"
                             alt="Rating stars"
                           />
                         </div>
@@ -347,7 +345,7 @@ function Main() {
                             sed do eiusmod
                           </p>
                           <h4 className="username">
-                            Anonymous 20, Sidoarjo
+                            Anonymous 25, Sidoarjo
                           </h4>
                         </div>
                       </div>
