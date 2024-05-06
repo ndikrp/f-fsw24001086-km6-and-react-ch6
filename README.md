@@ -1,3 +1,27 @@
+# Binar: Challenge 06 Car List Database 
+Fullstack Web Development Challenge 6 Binar Academy - FSW2402KM6004 Andhika Rizky Aulia
+
+A fullstack web application using Vite + React Framework. Able to Fetch data from this [Cars Data Endpoint](https://raw.githubusercontent.com/fnurhidayat/probable-garbanzo/main/data/cars.min.json)
+
+-----------------------
+# How to Use
+1. `git clone https://github.com/ndikrp/f-fsw24001086-km6-and-react-ch6.git`
+
+2. `npm install` to install all the dependencies
+
+3. run `npm run dev` to run the server
+
+4. Done
+
+-----------------------
+# Dependencies
+* [bootstrap](https://www.npmjs.com/package/bootstrap) (Bootstrap CSS Toolkit)
+* [axios](https://www.npmjs.com/package/axios) (Promise based HTTP client)
+* [swiper](https://www.npmjs.com/package/swiper) (Touch Slider for Carousel)
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
