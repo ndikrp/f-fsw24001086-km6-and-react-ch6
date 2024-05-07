@@ -17,7 +17,7 @@ A full stack web application using Vite + React Framework. Able to Fetch data fr
 # Dependencies
 * [bootstrap](https://www.npmjs.com/package/bootstrap) (Bootstrap CSS Toolkit)
 * [axios](https://www.npmjs.com/package/axios) (Promise based HTTP client)
-* [swiper](https://www.npmjs.com/package/swiper) (Touch Slider for Carousel)
+* [swiper](https://www.npmjs.com/package/swiper) (Drag Slider for Carousel)
 
 
 
